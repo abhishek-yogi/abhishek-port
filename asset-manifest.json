@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/abhishek-port/static/css/main.14608433.css",
+    "main.js": "/abhishek-port/static/js/main.80037844.js",
+    "static/js/787.b217d0ff.chunk.js": "/abhishek-port/static/js/787.b217d0ff.chunk.js",
+    "static/media/project-4.png": "/abhishek-port/static/media/project-4.ce7cdd5050f7c6a31daf.png",
+    "static/media/profile.png": "/abhishek-port/static/media/profile.3b48fe9668233ee85cd0.png",
+    "static/media/photoshop.png": "/abhishek-port/static/media/photoshop.f95f6a15603da4a27fd9.png",
+    "static/media/Adobe_XD.png": "/abhishek-port/static/media/Adobe_XD.ebb5610007c13866fffe.png",
+    "static/media/php.png": "/abhishek-port/static/media/php.28c7a89dd1b245b3367c.png",
+    "static/media/jquery.png": "/abhishek-port/static/media/jquery.bcc1da780578de0ed62f.png",
+    "static/media/facebook.png": "/abhishek-port/static/media/facebook.59c59c9a3943fc380b33.png",
+    "static/media/project-2.jpg": "/abhishek-port/static/media/project-2.e50008eef6e3ee809d28.jpg",
+    "static/media/project-3.jpg": "/abhishek-port/static/media/project-3.0d16efcb31737144b506.jpg",
+    "static/media/project-6.png": "/abhishek-port/static/media/project-6.fc187909b54ce5309e46.png",
+    "static/media/bootstrap.png": "/abhishek-port/static/media/bootstrap.ffb9feeab82b4f8d39f5.png",
+    "static/media/react.png": "/abhishek-port/static/media/react.1526623b0799fbc7e6dd.png",
+    "static/media/html.png": "/abhishek-port/static/media/html.3eed59eafea24b3dce30.png",
+    "static/media/project-5.png": "/abhishek-port/static/media/project-5.a62578f022c0390afb04.png",
+    "static/media/linkedIn.png": "/abhishek-port/static/media/linkedIn.1e7ec26c72b00ffc0d09.png",
+    "static/media/seo.png": "/abhishek-port/static/media/seo.0cc6a98a1f99900d9b3d.png",
+    "static/media/css.png": "/abhishek-port/static/media/css.04376636f25832a9fce1.png",
+    "static/media/revicons.eot": "/abhishek-port/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/abhishek-port/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Javascript.png": "/abhishek-port/static/media/Javascript.266bd9fb2663dcc057b4.png",
+    "static/media/revicons.woff": "/abhishek-port/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/abhishek-port/index.html",
+    "main.14608433.css.map": "/abhishek-port/static/css/main.14608433.css.map",
+    "main.80037844.js.map": "/abhishek-port/static/js/main.80037844.js.map",
+    "787.b217d0ff.chunk.js.map": "/abhishek-port/static/js/787.b217d0ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14608433.css",
+    "static/js/main.80037844.js"
+  ]
+}
